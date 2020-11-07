@@ -12,6 +12,4 @@ I am a Javascript developer🚀 from Nigeria 🇳🇬.
 - 💬 Open to collabs and work 
 - 📫 How to reach me: [Twitter](https://twitter.com/paulebose) * [Instagram](https://instagram.com/se.tale) * [Discord](https://discord.com/bada)
 
-<p align="right">
 <a href="https://www.buymeacoffee.com/bada" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height=60 width=217 /></a>
-</p>
