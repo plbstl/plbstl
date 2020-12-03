@@ -1,6 +1,6 @@
 ### Hey 👋🏽, I'm [Paul Ebose](https://twitter.com/paulebose)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulebose&layout=compact&hide_border=true&count_private=true" alt="My most used languages for code on Github" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulebose&layout=compact&hide_border=true" alt="My most used languages for code on Github" />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=paulebose&show_icons=true&hide_border=true&count_private=true"  alt="My Github stats summary" />
 
 💕
