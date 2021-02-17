@@ -12,7 +12,7 @@
 I am a Javascript developer🚀💕 from Nigeria 🇳🇬.
 
 - 🔭 I’m currently creating a tech collective
-- 👨🏽‍💻 I also code in Golang and Python 
+- 💻 I also code in Golang and Python 
 - 🌱 Open to collaborations and work 
 - 🤔 I’m looking for help with getting a job
 - 💬 Ask me about [Web Accessibility](#) and [JavaScript Quirks](#)
