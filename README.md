@@ -9,7 +9,7 @@
 [![Resume Badge](https://img.shields.io/badge/-Resume-4285F4?style=flat-square&logo=Google-Drive&logoColor=white)](https://drive.google.com/file/d/1oHBuMxYBs5wT3pvtu30-zWIe48d9h8hz/view)
 [![Twitter Badge](https://img.shields.io/badge/-@tiredforeal-1ca0f1?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=tiredforeal&tw_p=followbutton) 
 
-I am a Javascript developer🚀💕 from Nigeria 🇳🇬.
+_I am a **Javascript developer**🚀💕 from Nigeria 🇳🇬._
 
 - 🔭 I’m currently creating a tech collective
 - 💻 I also code in Golang and Python 
