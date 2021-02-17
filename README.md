@@ -1,7 +1,13 @@
 ### Hey 👋🏽, I'm [Paul Ebose](https://bada.llc)
 
 ![My GitHub profile views](https://visitor-badge.glitch.me/badge?page_id=paulebose.paulebose)
-[![Follow me on Twitter](https://img.shields.io/twitter/follow/tiredforeal?label=%40tiredforeal&style=social)](https://twitter.com/intent/follow?screen_name=swyx&tw_p=followbutton)
+[![Discord Badge](https://img.shields.io/badge/-@bada-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/763924922589249557) 
+[![G-Mail Badge](https://img.shields.io/badge/-paulebose@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto://paulebose@gmail.com)
+[![GitHub Badge](https://img.shields.io/badge/-@PaulEbose-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/PaulEbose/) 
+[![Instagram Badge](https://img.shields.io/badge/-se.tale-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/se.tale)
+[![Linkedin Badge](https://img.shields.io/badge/-PaulEbose-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paulebose/)
+[![Resume Badge](https://img.shields.io/badge/-Resume-4285F4?style=flat-square&logo=Google-Drive&logoColor=white)](https://drive.google.com/file/d/1oHBuMxYBs5wT3pvtu30-zWIe48d9h8hz/view)
+[![Twitter Badge](https://img.shields.io/badge/-@tiredforeal-1ca0f1?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=tiredforeal&tw_p=followbutton) 
 
 I am a Javascript developer🚀💕 from Nigeria 🇳🇬.
 
@@ -10,8 +16,6 @@ I am a Javascript developer🚀💕 from Nigeria 🇳🇬.
 - 🌱 Open to collaborations and work 
 - 🤔 I’m looking for help with getting a job
 - 💬 Ask me about [Web Accessibility](#) and [JavaScript Quirks](#)
-- 📫 How to reach me: [Twitter](https://twitter.com/tiredforeal) * [Instagram](https://instagram.com/se.tale) * [Discord](https://discordapp.com/users/763924922589249557) * [LinkedIn](https://linkedin.com/in/paulebose) * [Email](mailto://paulebose@gmail.com) 
-- 📝 [Resume](https://drive.google.com/file/d/1oHBuMxYBs5wT3pvtu30-zWIe48d9h8hz/view) 
 
 ![Most used languages in my Github Account](https://github-readme-stats.vercel.app/api/top-langs/?username=paulebose&layout=compact&theme=gotham&count_private=true)
 
