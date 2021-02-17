@@ -1,7 +1,7 @@
 ### Hey 👋🏽, I'm [Paul Ebose](https://bada.llc)
 
-![My GitHub profile views](https://visitor-badge.glitch.me/badge?page_id=paulebose.paulebose)
-[![Discord Badge](https://img.shields.io/badge/-@bada-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/763924922589249557) 
+![My GitHub profile visits](https://visitor-badge.glitch.me/badge?page_id=paulebose.paulebose&label=ddff)
+[![Discord Badge](https://img.shields.io/badge/-@bada%237678-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/763924922589249557) 
 [![G-Mail Badge](https://img.shields.io/badge/-paulebose@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto://paulebose@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/-@PaulEbose-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/PaulEbose/) 
 [![Instagram Badge](https://img.shields.io/badge/-@se.tale-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/se.tale)
