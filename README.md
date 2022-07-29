@@ -15,6 +15,7 @@ _I am a **Javascript developer**🚀💕 from Nigeria 🇳🇬._
 - 💬 Ask me about [Web Accessibility](#) and [JavaScript Quirks](#)
 
 btc: 1DnPKxXRFCmtfbcDuNA3iTvTQPFJ6iVdVv
+eth: 0x4C3eBC5d09Ba424b70A9510A7a595b47B6c51383
 
 ![Most used languages in my Github Account](https://github-readme-stats.vercel.app/api/top-langs/?username=paulebose&layout=compact&theme=gotham&count_private=true)
 
