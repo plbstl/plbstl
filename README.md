@@ -7,11 +7,11 @@
 
 &nbsp; &nbsp; 🔭 Frontend engineer with experience in backend
 
-&nbsp; &nbsp; 💻 Mainly code in TypeScript & Golang
+&nbsp; &nbsp; 💻 Mainly codes in TypeScript & Golang
 
 &nbsp; &nbsp; 🌱 Open to work and collaborations
 
-&nbsp; &nbsp; 💬 Ask me about Web3 and Web Accessibility
+&nbsp; &nbsp; 💬 Ask me about Web3 and web accessibility
 
 Check out [my blog](https://bada.hashnode.dev/)
 
