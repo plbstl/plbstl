@@ -5,9 +5,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=bbb&center=true&vCenter=true&width=435&lines=+I+enjoy+building+accessible+solutions)
 
-### Paul Ebose
-
-&nbsp; &nbsp; 🔭 UI Engineer
+### Paul Ebose - UI Engineer
 
 &nbsp; &nbsp; 💻 Mainly codes in TypeScript & Golang
 
