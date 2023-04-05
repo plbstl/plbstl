@@ -7,11 +7,11 @@
 
 ### Paul Ebose - UI Engineer
 
-&nbsp; &nbsp; 💻 Mainly codes in TypeScript & Golang
+&nbsp; &nbsp; 👨‍💻&nbsp; Mainly codes in TypeScript & Golang
 
-&nbsp; &nbsp; 🌱 Open to work and collaborations
+&nbsp; &nbsp; 📥&nbsp; Open to work and collaborations
 
-&nbsp; &nbsp; 💬 Ask me about Web3 and web accessibility
+&nbsp; &nbsp; 💬&nbsp; Ask me about Web3 and web accessibility
 
 Check out [my blog](https://bada.hashnode.dev/)
 
