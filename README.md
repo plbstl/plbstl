@@ -3,11 +3,11 @@
 [![Discord Badge](https://img.shields.io/badge/-@bada%237678-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/763924922589249557)
 [![LinkedIn Badge](https://img.shields.io/badge/-PaulEbose-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paulebose/)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=bbb&center=true&vCenter=true&repeat=false&width=435&lines=I+enjoy+building+accessible+solutions)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=bbb&center=true&vCenter=true&width=435&lines=+I+enjoy+building+accessible+solutions)
 
 ### Paul Ebose
 
-&nbsp; &nbsp; 🔭 Frontend engineer with experience in backend
+&nbsp; &nbsp; 🔭 UI Engineer
 
 &nbsp; &nbsp; 💻 Mainly codes in TypeScript & Golang
 
