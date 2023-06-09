@@ -6,7 +6,7 @@
 
 Hi, I'm Ebose! I mainly code in TypeScript & Golang. I'm currently interested Web3 and web accessibility.
 
-If you’d like to get in touch for work, collaborations, or something else, don’t hesitate to [contact me](https://twitter.com/plbstl).
+If you’d like to get in touch for work, collaborations, or to connect, don’t hesitate to [contact me](https://twitter.com/plbstl).
 
 <a href='https://ko-fi.com/L3L7M2YCI' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
