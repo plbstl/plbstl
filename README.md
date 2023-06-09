@@ -1,5 +1,5 @@
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React.js" width="30" height="30" /> &nbsp;
-![My GitHub profile visits](https://visitor-badge.glitch.me/badge?page_id=paulebose.paulebose&label=ddff)
+![My GitHub profile visits](https://visitor-badge.glitch.me/badge?page_id=plbstl.plbstl)
 [![Discord Badge](https://img.shields.io/badge/-@bada%237678-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/763924922589249557)
 [![LinkedIn Badge](https://img.shields.io/badge/-PaulEbose-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paulebose/)
 
@@ -15,6 +15,6 @@
 
 Check out [my blog](https://bada.hashnode.dev/)
 
-![Most used languages in my Github Account](https://github-readme-stats.vercel.app/api/top-langs/?username=apexkoder&layout=compact&theme=transparent&title_color=58a6ff&text_color=aaa&count_private=true&langs_count=10&hide_border=true)
+![Most used languages in my Github Account](https://github-readme-stats.vercel.app/api/top-langs/?username=plbstl&layout=compact&theme=transparent&title_color=58a6ff&text_color=aaa&count_private=true&langs_count=10&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=apexkoder&theme=github-dark-blue&hide_border=true&stroke=0000)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=plbstl&theme=github-dark-blue&hide_border=true&stroke=0000)
