@@ -4,7 +4,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bagel+Fat+One&weight=500&size=32&pause=1000&width=435&lines=Paul+Ebose)](https://git.io/typing-svg)
 
-Hi, I'm Ebose! I mainly code in TypeScript & Golang. I'm currently interested Web3 and web accessibility.
+Hi, I'm Ebose! 
+
+I'm a software engineer currently interested Web3 and web accessibility.
+
+I mainly code in TypeScript & Golang and I try everyday to contribute more to open source.
 
 If you’d like to get in touch for work, collaborations, or to connect, don’t hesitate to [contact me](https://twitter.com/plbstl).
 
