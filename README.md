@@ -2,13 +2,17 @@
 [![Discord Badge](https://img.shields.io/badge/-@bada%237678-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/763924922589249557)
 [![LinkedIn Badge](https://img.shields.io/badge/-PaulEbose-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paulebose/)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bagel+Fat+One&weight=500&size=32&pause=1000&width=435&lines=Paul+Ebose)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bagel+Fat+One&weight=600&size=17&pause=1000&width=376&lines=Solving+problems,+one+line+at+a+time)](https://git.io/typing-svg)
 
-Hi, I'm Ebose! 
+Hi, I'm Paul Ebose!
 
-I'm a software engineer currently interested Web3 and web accessibility.
+A motivated self-starter, focused on usability, performance and well defined user interfaces.
 
-I mainly code in TypeScript & Golang and I try everyday to contribute more to open source.
+I always ensure I deliever high quality output, and make a significant impact in all areas.
+
+I'd consider myself an excellent team player, and someone aware of effective time-management techniques.
+
+I strive to build game-changing productivity tools and is currently interested Web3 and web accessibility.
 
 If you’d like to get in touch for work, collaborations, or to connect, don’t hesitate to [contact me](https://twitter.com/plbstl).
 
