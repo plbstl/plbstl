@@ -4,17 +4,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bagel+Fat+One&weight=600&size=17&pause=1000&width=376&lines=Solving+problems,+one+line+at+a+time)](https://git.io/typing-svg)
 
-Hi, I'm Paul Ebose!
+Hi, I'm Paul Ebose! A curious and motivated self-starter focused on usability, performance, and well-defined user interfaces.
 
-A motivated self-starter, focused on usability, performance and well defined user interfaces.
+I'd consider myself an excellent team player and someone aware of effective time-management techniques. I always strive to deliver high-quality output.
 
-I always ensure I deliever high quality output, and make a significant impact in all areas.
-
-I'd consider myself an excellent team player, and someone aware of effective time-management techniques.
-
-I strive to build game-changing productivity tools and is currently interested Web3 and web accessibility.
-
-If you’d like to get in touch for work, collaborations, or to connect, don’t hesitate to [contact me](https://twitter.com/plbstl).
+[Get in touch](https://twitter.com/plbstl) for work, collaborations, or to connect.
 
 <a href='https://ko-fi.com/L3L7M2YCI' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
@@ -24,7 +18,7 @@ If you’d like to get in touch for work, collaborations, or to connect, don’t
 - [Automate your Workflow. Learn About GitHub Actions and Slack Webhooks](https://bada.hashnode.dev/automate-your-workflow-learn-about-github-actions-and-slack-webhooks)
 
 <details>
-<summary></summary>
+<summary> &nbsp; . . .</summary>
   
 ![Most used languages in my Github Account](https://github-readme-stats.vercel.app/api/top-langs/?username=plbstl&layout=compact&theme=transparent&title_color=58a6ff&text_color=aaa&count_private=true&langs_count=10&hide_border=true)
 
