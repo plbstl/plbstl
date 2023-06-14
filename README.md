@@ -6,7 +6,7 @@
 
 Hi, I'm Paul Ebose! A curious and motivated self-starter focused on usability, performance, and well-defined user interfaces.
 
-I'd consider myself an excellent team player and someone aware of effective time-management techniques. I always strive to deliver high-quality output.
+I'd consider myself an excellent team player and someone aware of effective time-management techniques. I am also an open-source enthusiast who always strives to deliver high-quality output.
 
 [Get in touch](https://twitter.com/plbstl) for work, collaborations, or to connect.
 
