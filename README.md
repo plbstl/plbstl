@@ -7,11 +7,8 @@
 
 Hi, I'm Paul Ebose! A curious and motivated self-starter focused on usability, performance, and well-defined user interfaces.
 I enjoy exploring new ideas and concepts.
-I am also an open-source enthusiast who always strives to deliver high-quality output.
 
 [Get in touch](https://twitter.com/plbstl) for work, collaborations, or to connect.
-
-<a href='https://ko-fi.com/L3L7M2YCI' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 ## Random content
 - [Sign and Verify your Git Commits on GitHub and GitLab with GPG](https://bada.hashnode.dev/sign-and-verify-your-git-commits-on-github-and-gitlab-with-gpg)
