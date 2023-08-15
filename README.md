@@ -5,10 +5,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bagel+Fat+One&weight=600&size=17&pause=1000&width=376&lines=Solving+problems,+one+line+at+a+time)](https://git.io/typing-svg)
 
-Hi, I'm Paul Ebose! A curious and motivated self-starter focused on usability, performance, and well-defined user interfaces.
+A curious and motivated self-starter focused on usability, performance, and well-defined user interfaces.
 I enjoy exploring new ideas and concepts.
-
-[Get in touch](https://twitter.com/plbstl) for work, collaborations, or to connect.
 
 ## Random content
 - [Sign and Verify your Git Commits on GitHub and GitLab with GPG](https://bada.hashnode.dev/sign-and-verify-your-git-commits-on-github-and-gitlab-with-gpg)
