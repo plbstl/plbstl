@@ -1,7 +1,5 @@
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React.js" width="30" height="30" /> &nbsp;
-[![Twitter Badge](https://img.shields.io/badge/-@plbstl-1D9BF0?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/plbstl/)
 [![Discord Badge](https://img.shields.io/badge/-@plbstl-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/763924922589249557)
-[![LinkedIn Badge](https://img.shields.io/badge/-Paul_Ebose-007AB6?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paulebose/)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bagel+Fat+One&weight=600&size=17&pause=1000&width=376&lines=Solving+problems,+one+line+at+a+time)](https://git.io/typing-svg)
 
