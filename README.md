@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bagel+Fat+One&weight=600&size=17&pause=1000&width=376&lines=Solving+problems,+one+line+at+a+time)](https://git.io/typing-svg)
 
-A curious and motivated self-starter focused on usability, performance, and well-defined user interfaces.
+A curious and motivated self-starter focused on accessibility, usability, performance, and well-defined user interfaces.
 I enjoy exploring new ideas and concepts.
 
 ## Random content
