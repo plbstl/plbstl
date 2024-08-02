@@ -6,13 +6,45 @@
 A curious and motivated self-starter focused on accessibility, usability, performance, and well-defined user interfaces.
 I enjoy exploring new ideas and concepts.
 
+<table>
+ <tr>
+  <td>
+   <pre>
+🇩🇪 Hallo, ich bin Paul
+🇫🇷 Salut, moi c'est Paul
+🇪🇸 Hola, soy Paul</pre>
+  </td>
+  <td rowspan="3">
+	```sh
+	ipinfo 8.8.8.8
+	```
+   <!-- <img alt="Terminal" src="https://github.com/user-attachments/assets/26d17749-e354-4ef3-8284-81fa3f92df92"> -->
+  </td>
+ </tr>
+ <tr>
+  <td>
+   <pre><h1>Infinity + 2</h1></pre>
+  </td>
+ </tr>
+ <tr>
+  <td>
+   <pre>
+🐚 fish
+🧑‍💻 vscode, xcode
+🎨 one-monokai</pre>
+  </td>
+ </tr>
+</table>
+
 ## Random content
+
 - [Sign and Verify your Git Commits on GitHub and GitLab with GPG](https://bada.hashnode.dev/sign-and-verify-your-git-commits-on-github-and-gitlab-with-gpg)
 - [Introduction to Time & Space Complexity and the Big-O Notation](https://bada.hashnode.dev/little-introduction-to-time-and-space-complexity-big-o-notation)
 - [Automate your Workflow. Learn About GitHub Actions and Slack Webhooks](https://bada.hashnode.dev/automate-your-workflow-learn-about-github-actions-and-slack-webhooks)
 
 <details>
 <summary> &nbsp; . . .</summary>
-  
+
 ![Most used languages in my Github Account](https://github-readme-stats.vercel.app/api/top-langs/?username=plbstl&layout=compact&theme=transparent&title_color=58a6ff&text_color=aaa&count_private=true&langs_count=10&hide_border=true)
+
 </details>
