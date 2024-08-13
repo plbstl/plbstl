@@ -20,7 +20,7 @@ I enjoy exploring new ideas and concepts.
   <td>
    <pre>
 🐚 fish
-🧑‍💻 vscode, xcode
+🧑‍💻 [vsx]code
 🎨 one-monokai</pre>
   </td>
  </tr>
