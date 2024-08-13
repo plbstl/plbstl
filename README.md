@@ -14,13 +14,9 @@ I enjoy exploring new ideas and concepts.
 🇫🇷 Salut, moi c'est Paul
 🇪🇸 Hola, soy Paul</pre>
   </td>
- </tr>
- <tr>
   <td>
    <pre><h1>Infinity + 2</h1></pre>
   </td>
- </tr>
- <tr>
   <td>
    <pre>
 🐚 fish
