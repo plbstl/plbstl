@@ -6,7 +6,7 @@
 A curious and motivated self-starter focused on accessibility, usability, performance, and well-defined user interfaces.
 I enjoy exploring new ideas and concepts.
 
-<table>
+<table align="center">
  <tr>
   <td>
    <pre>
