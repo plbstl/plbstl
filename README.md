@@ -14,9 +14,6 @@ I enjoy exploring new ideas and concepts.
 🇫🇷 Salut, moi c'est Paul
 🇪🇸 Hola, soy Paul</pre>
   </td>
-  <td rowspan="3">
-   <img alt="Terminal" src="https://github.com/user-attachments/assets/26d17749-e354-4ef3-8284-81fa3f92df92">
-  </td>
  </tr>
  <tr>
   <td>
