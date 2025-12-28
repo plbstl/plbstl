@@ -26,12 +26,6 @@ I enjoy exploring new ideas and concepts.
  </tr>
 </table>
 
-## Random content
-
-- [Sign and Verify your Git Commits on GitHub and GitLab with GPG](https://bada.hashnode.dev/sign-and-verify-your-git-commits-on-github-and-gitlab-with-gpg)
-- [Introduction to Time & Space Complexity and the Big-O Notation](https://bada.hashnode.dev/little-introduction-to-time-and-space-complexity-big-o-notation)
-- [Automate your Workflow. Learn About GitHub Actions and Slack Webhooks](https://bada.hashnode.dev/automate-your-workflow-learn-about-github-actions-and-slack-webhooks)
-
 <details>
 <summary> &nbsp; . . .</summary>
 
